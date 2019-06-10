@@ -1,0 +1,11 @@
+F:\ProjectDemo\gitApplication\git.Model\obj\Debug\git.Model.csprojAssemblyReference.cache
+F:\ProjectDemo\gitApplication\git.Model\obj\Debug\git.Model.csproj.CoreCompileInputs.cache
+F:\ProjectDemo\gitApplication\git.Model\bin\Debug\git.Model.dll
+F:\ProjectDemo\gitApplication\git.Model\bin\Debug\git.Model.pdb
+F:\ProjectDemo\gitApplication\git.Model\obj\Debug\git.Model.dll
+F:\ProjectDemo\gitApplication\git.Model\obj\Debug\git.Model.pdb
+F:\ProjectDemo\gitApplication\git.Model\bin\Debug\git.Common.dll
+F:\ProjectDemo\gitApplication\git.Model\bin\Debug\Newtonsoft.Json.dll
+F:\ProjectDemo\gitApplication\git.Model\bin\Debug\git.Common.pdb
+F:\ProjectDemo\gitApplication\git.Model\bin\Debug\Newtonsoft.Json.xml
+F:\ProjectDemo\gitApplication\git.Model\obj\Debug\git.Model.csproj.CopyComplete

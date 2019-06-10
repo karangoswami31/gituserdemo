@@ -1,0 +1,9 @@
+F:\ProjectDemo\gitApplication\git.Common\bin\Debug\git.Common.dll
+F:\ProjectDemo\gitApplication\git.Common\bin\Debug\git.Common.pdb
+F:\ProjectDemo\gitApplication\git.Common\bin\Debug\Newtonsoft.Json.dll
+F:\ProjectDemo\gitApplication\git.Common\bin\Debug\Newtonsoft.Json.xml
+F:\ProjectDemo\gitApplication\git.Common\obj\Debug\git.Common.csprojAssemblyReference.cache
+F:\ProjectDemo\gitApplication\git.Common\obj\Debug\git.Common.csproj.CoreCompileInputs.cache
+F:\ProjectDemo\gitApplication\git.Common\obj\Debug\git.Common.csproj.CopyComplete
+F:\ProjectDemo\gitApplication\git.Common\obj\Debug\git.Common.dll
+F:\ProjectDemo\gitApplication\git.Common\obj\Debug\git.Common.pdb

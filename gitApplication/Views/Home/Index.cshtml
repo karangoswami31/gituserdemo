@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<link href="~/Content/Userdetail.css" rel="stylesheet" />
+<div class="row">
+    <div class="col-md-12">
+        <h2>Get Github User details</h2>
+        <p>
+            you can search a user from github please enter search name in text box and click on search button
+        </p>
+        @Html.TextBox("txtUserName", "asad-sangla")
+        <input type="button" value="Search" onclick="_gitUser.getUserDetail();" />
+        <span id="spnsearch" style="display:none">searching.........</span>
+    </div>
+    <div id="divUserDetail" style="display:none">
+        <div id="divimg">
+            <img  src="~/Content/Image/default-user.jpg" class="" alt="User Image">
+        </div>
+        <p class="username"></p>
+        <p class="location"></p>
+        <div id="repoContainer">
+        </div>
+    </div>
+    <div id="divNoRecord" style="display:none">
+        <span>No record found</span>
+    </div>
+    </div>
+    @Scripts.Render("~/bundles/gitUser")
